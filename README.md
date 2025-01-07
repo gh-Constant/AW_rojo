@@ -14,7 +14,7 @@ A streamlined template for Roblox development using Rojo, providing a clean proj
    - Click "Use this template" at the top of the repository
    - Or clone it directly:
    ```bash
-   git clone https://github.com/yourusername/AW_rojo.git
+   git clone https://github.com/gh-Constant/AW_rojo.git
    cd AW_rojo
    ```
 
