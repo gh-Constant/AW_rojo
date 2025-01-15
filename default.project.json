@@ -1,5 +1,5 @@
 {
-  "name": "AW_rojo",
+  "name": "AW_TPS",
   "servePort": 34872,
   "tree": {
     "$className": "DataModel",
@@ -10,9 +10,10 @@
       
       "Packages": {
         "$path": "Packages",
-        "$ignoreUnknownInstances": true
+        "$ignoreUnknownInstances": true,
+        "$ignoreAll": true
       },
-      "Shared": {
+      "TPSShared": {
         "$path": "src/shared",
         "$ignoreUnknownInstances": true
       }
@@ -20,7 +21,7 @@
 
     "ServerScriptService": {
       "$ignoreUnknownInstances": true,
-      "Server": {
+      "TPSServer": {
         "$path": "src/server",
         "$ignoreUnknownInstances": true
       }
@@ -30,7 +31,7 @@
       "$ignoreUnknownInstances": true,
       "StarterPlayerScripts": {
         "$ignoreUnknownInstances": true,
-        "Client": {
+        "TPSClient": {
           "$path": "src/client",
           "$ignoreUnknownInstances": true
         }
