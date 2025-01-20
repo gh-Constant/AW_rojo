@@ -10,8 +10,7 @@
       
       "Packages": {
         "$path": "Packages",
-        "$ignoreUnknownInstances": true,
-        "$ignoreAll": true
+        "$ignoreUnknownInstances": true
       },
       "TPSShared": {
         "$path": "src/shared",
