@@ -8,6 +8,7 @@ Key Principles
 - Optimize for performance while maintaining readability
 - Consider client/server context before implementing code
 - Implement robust anti-cheat measures and exploit prevention
+- Utilize the Spring module for smooth animations in GUI and camera movements
 
 Detailed Guidelines
 - Prioritize Clean, Efficient Code: Write clear, optimized code that follows Roblox's performance guidelines. Balance efficiency with readability.
@@ -48,6 +49,7 @@ Package Usage
 - Leverage Promise library for async operations
 - Consider Signal for custom events
 - Check ReplicatedStorage.Packages for available modules
+- Use the Spring module for GUI animations and camera effects
 
 Naming Conventions
 - Use PascalCase for classes/components
